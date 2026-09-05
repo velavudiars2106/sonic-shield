@@ -1,8 +1,0 @@
-streamlit
-numpy
-soundfile
-scipy
-matplotlib
-onnxruntime
-torch
-torchaudio
